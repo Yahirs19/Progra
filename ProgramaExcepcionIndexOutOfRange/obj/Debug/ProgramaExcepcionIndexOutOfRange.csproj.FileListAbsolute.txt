@@ -1,0 +1,7 @@
+C:\Users\Yahir\source\repos\ProgramaExcepcionIndexOutOfRange\bin\Debug\ProgramaExcepcionIndexOutOfRange.exe.config
+C:\Users\Yahir\source\repos\ProgramaExcepcionIndexOutOfRange\bin\Debug\ProgramaExcepcionIndexOutOfRange.exe
+C:\Users\Yahir\source\repos\ProgramaExcepcionIndexOutOfRange\bin\Debug\ProgramaExcepcionIndexOutOfRange.pdb
+C:\Users\Yahir\source\repos\ProgramaExcepcionIndexOutOfRange\obj\Debug\ProgramaExcepcionIndexOutOfRange.csproj.AssemblyReference.cache
+C:\Users\Yahir\source\repos\ProgramaExcepcionIndexOutOfRange\obj\Debug\ProgramaExcepcionIndexOutOfRange.csproj.CoreCompileInputs.cache
+C:\Users\Yahir\source\repos\ProgramaExcepcionIndexOutOfRange\obj\Debug\ProgramaExcepcionIndexOutOfRange.exe
+C:\Users\Yahir\source\repos\ProgramaExcepcionIndexOutOfRange\obj\Debug\ProgramaExcepcionIndexOutOfRange.pdb
