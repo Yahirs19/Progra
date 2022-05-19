@@ -49,6 +49,7 @@ namespace ProgramaExcepcionIndexOutOfRange
             {
                 Console.WriteLine("El bloque finally siempre se ejecuta");
                 Limpiar();
+                //Console.WriteLine():
             }
         }
     }
